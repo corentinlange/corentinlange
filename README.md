@@ -4,7 +4,7 @@ Hi 👋 My name is Corentin Lange
 Software engineer
 -------------------------------------------------------
 
-* 🌍  I'm based in France, Marseille ☀️🏖️⛰️
+* 🌍  I'm based in Marseille ☀️🏖️⛰️, France 
 * ✉️  You can contact me at [corentin@lange.com](mailto:corentin@lange.com)
 * 👷 Currently employed as a Rust backend developer
 
