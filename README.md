@@ -5,7 +5,7 @@ Software engineer
 -------------------------------------------------------
 
 * 🌍  I'm based in Marseille ☀️🏖️⛰️, France 
-* ✉️  You can contact me at [corentin@lange.com](mailto:corentin@lange.com)
+* ✉️  You can contact me at [corentin.lange@gmail.com](mailto:corentin.lange@gmail.com)
 * 👷 Currently employed as a Rust backend developer
 
 ### Skills
